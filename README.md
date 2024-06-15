@@ -11,4 +11,4 @@ Notifications: Get notified of new messages.
 Responsive Design: Fully responsive design for mobile and desktop.
 
 
-Link -https://twist-chatz-1.onrender.com
+Link -https://twitz-chatsz.onrender.com/chats
